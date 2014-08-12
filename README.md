@@ -54,7 +54,6 @@ Here is a list of some basic Git commands that will help you get started with gi
    git commit -m "Message for commit"
    ```
 
-   
 9. **Pull - Update local repo with latest update from server**
    ```
    git pull 
@@ -67,6 +66,22 @@ Here is a list of some basic Git commands that will help you get started with gi
    
    git push origin <branch-name> 
    #Updates corresponding branch
+   ```
+   
+11. **Stash - Store changes without commiting**
+   ```
+   git stash
+   ```
+   
+12. **Stash Apply - Apply stashed changes**
+   ```
+   git stash apply
+   ```
+   
+13. **Merge**
+   ```
+   git merge <branch-name>
+   #Merges a different branch into your active branch
    ```
 
 
