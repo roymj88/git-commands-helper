@@ -41,6 +41,7 @@ Basic git commands
    git add <file-name>
    OR
    git add *
+   
    ```
 
 
