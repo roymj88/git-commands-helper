@@ -16,10 +16,13 @@ Basic git commands
    
    ```
 3. **Create a new branch from current working branch and switch to it**
+
    ```
    git checkout -b <new-branch-name>
    ```
+   
 4. **Switch to a new branch**
+
    ```
    git branch <branch-name>
    ```
