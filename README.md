@@ -14,6 +14,7 @@ Basic git commands
    ```
    git init
    ```
+   
 3. **Create a new branch from current working branch and switch to it**
 
    ```
