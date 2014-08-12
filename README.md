@@ -13,7 +13,6 @@ Basic git commands
 2. **Create a new local repository**
    ```
    git init
-   
    ```
 3. **Create a new branch from current working branch and switch to it**
 
@@ -41,6 +40,5 @@ Basic git commands
    git add <file-name>
    OR
    git add *
-   
    ```
 
