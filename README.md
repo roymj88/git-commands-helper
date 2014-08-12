@@ -3,7 +3,7 @@ git-helper
 
 Basic git commands
 
-**Checkout a new branch
+**Checkout a new branch**
 
 ```
    git clone git-repo-url
