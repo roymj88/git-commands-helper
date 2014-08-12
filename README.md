@@ -50,12 +50,23 @@ Here is a list of some basic Git commands that will help you get started with gi
 7. **Remove files for commit**
    ```
    git rm <file-name>
-   
    ```
    
 8. **Commit**
    ```
    git commit -m "Message for commit"
+   ```
+
+   
+9. **Pull - Update local repo with latest update from server**
+   ```
+   git pull 
+   ```
+
+10. **Push - Update changes to repository **
+   ```
+   git push origin master #Updates 'master' branch
+   git push origin <branch-name> #Updates corresponding branch
    ```
 
 
