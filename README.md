@@ -4,16 +4,16 @@ git-helper
 Basic git commands
 
 1. **Checkout a new branch**
-```
-git clone git-repo-url
-
-eg:-   
-git clone https://github.com/roymj88/git-helper.git
+   ```
+   git clone git-repo-url
    
-```
+   eg:-   
+   git clone https://github.com/roymj88/git-helper.git
+      
+   ```
 
 2. **Create a new local repository**
-```
-git init
-
-```
+   ```
+   git init
+   
+   ```
