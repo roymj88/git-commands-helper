@@ -1,7 +1,9 @@
 git-helper
 ==========
 
-Basic git commands
+# Basic git commands
+
+Here is a list of some basic Git commands that will help you get started with git.
 
 1. **Checkout a new branch**
    ```
