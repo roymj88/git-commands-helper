@@ -63,10 +63,13 @@ Here is a list of some basic Git commands that will help you get started with gi
    git pull 
    ```
 
-10. **Push - Update changes to repository **
+10. **Push - Update changes to repository**
    ```
-   git push origin master #Updates 'master' branch
-   git push origin <branch-name> #Updates corresponding branch
+   git push origin master 
+   #Updates 'master' branch
+   
+   git push origin <branch-name> 
+   #Updates corresponding branch
    ```
 
 
