@@ -26,4 +26,21 @@ Basic git commands
    ```
    git branch <branch-name>
    ```
+   
+5. **List all available branches**
+   ```
+   git branch
+   ```
+   
+6. **Check status of files**
+   ```
+   git status
+   ```
+7. **Add files for commit**
+   ```
+   git add <file-name>
+   OR
+   git add *
+   
+   ```
 
