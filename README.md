@@ -21,8 +21,8 @@ Basic git commands
    git checkout -b <new-branch-name>
    ```
 
-4. **Switch between two branches**
+4. **Switch to a new branch**
    ```
    git branch <branch-name>
    ```
-5. 
+
