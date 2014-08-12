@@ -39,7 +39,10 @@ Basic git commands
 7. **Add files for commit**
    ```
    git add <file-name>
+   
    OR
+   
    git add *
    ```
+
 
