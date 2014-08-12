@@ -1,7 +1,4 @@
-git-commands-helper
-==========
-
-# Basic git commands
+# git-commands-helper : Basic git commands
 
 Here is a list of some basic Git commands that will help you get started with git.
 
