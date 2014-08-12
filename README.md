@@ -42,8 +42,20 @@ Here is a list of some basic Git commands that will help you get started with gi
    ```
    git add <file-name>
    OR
+   git add <file-name-1> <file-name-2> <file-name3>
+   OR
    git add *
    
+   ```
+7. **Remove files for commit**
+   ```
+   git rm <file-name>
+   
+   ```
+   
+8. **Commit**
+   ```
+   git commit -m "Message for commit"
    ```
 
 
