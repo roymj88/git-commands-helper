@@ -6,7 +6,6 @@ Basic git commands
 1. **Checkout a new branch**
    ```
    git clone git-repo-url
-   
    eg:-   
    git clone https://github.com/roymj88/git-helper.git
       
@@ -20,7 +19,6 @@ Basic git commands
    ```
    git checkout -b <new-branch-name>
    ```
-
 4. **Switch to a new branch**
    ```
    git branch <branch-name>
