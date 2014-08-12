@@ -1,4 +1,4 @@
-git-helper
+git-commands-helper
 ==========
 
 # Basic git commands
