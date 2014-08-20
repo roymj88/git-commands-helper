@@ -92,4 +92,9 @@ Here is a list of some basic Git commands that will help you get started with gi
    #Displays the user name
    
    ```
+15. **Modify the Previous Commit's Message**
+
+   ```
+   git commit --amend -m "New commit message"
+   ```
 
