@@ -92,9 +92,16 @@ Here is a list of some basic Git commands that will help you get started with gi
    #Displays the user name
    
    ```
-15. **Modify the Previous Commit's Message**
+   
+15. ***Setting your email in Git***
+   ```
+   git config --global user.email "your_email@example.com"
+   ```
+   
+16. **Modify the Previous Commit's Message**
 
    ```
    git commit --amend -m "New commit message"
    ```
+
 
