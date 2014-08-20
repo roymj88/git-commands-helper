@@ -93,7 +93,7 @@ Here is a list of some basic Git commands that will help you get started with gi
    
    ```
    
-15. ***Setting your email in Git***
+15. **Setting email in Git**
    ```
    git config --global user.email "your_email@example.com"
    ```
