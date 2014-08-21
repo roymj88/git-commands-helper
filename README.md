@@ -103,5 +103,11 @@ Here is a list of some basic Git commands that will help you get started with gi
    ```
    git commit --amend -m "New commit message"
    ```
+   
+17. **View commits of a certain author** 
+    ```
+    git log --author=user.name
+    ```
+   
 
 
