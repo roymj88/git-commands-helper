@@ -114,4 +114,8 @@ Here is a list of some basic Git commands that will help you get started with gi
     git log
     ```
 
-
+19. **List of tags**
+   ```
+   
+   git tag
+   ```
