@@ -119,7 +119,7 @@ Here is a list of some basic Git commands that will help you get started with gi
    git tag
    ```
    
-20. **Config value for color **
+20. **Config value for color**
    ```
    #Edit Color scheme
    
