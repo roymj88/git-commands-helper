@@ -95,6 +95,7 @@ Here is a list of some basic Git commands that will help you get started with gi
    #Edit Color scheme
    color.status=auto
    color.interactive=auto
+   color.diff=auto
 
    ```
    
