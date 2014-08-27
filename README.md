@@ -91,12 +91,6 @@ Here is a list of some basic Git commands that will help you get started with gi
    
    git config --global user.name
    #Displays the user name
-   
-   #Edit Color scheme
-   color.status=auto
-   color.interactive=auto
-   color.diff=auto
-
    ```
    
 15. **Setting email in Git**
@@ -123,4 +117,13 @@ Here is a list of some basic Git commands that will help you get started with gi
 19. **List of tags**
    ```
    git tag
+   ```
+   
+20. **Config value for color **
+   ```
+   #Edit Color scheme
+   
+   color.status=auto
+   color.interactive=auto
+   color.diff=auto
    ```
