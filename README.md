@@ -90,7 +90,8 @@ Here is a list of some basic Git commands that will help you get started with gi
    #Set a new user name
    git config --global user.name
    #Displays the user name
-   
+   color.status=auto
+   #Edit Color scheme
    ```
    
 15. **Setting email in Git**
