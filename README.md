@@ -128,6 +128,7 @@ Here is a list of some basic Git commands that will help you get started with gi
    color.diff=auto
    ```
 21. **Export Git Repo**
+
    ```
    git archive --format=zip -9 HEAD -o <file-name>
    ```
