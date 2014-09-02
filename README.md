@@ -138,4 +138,10 @@ Here is a list of some basic Git commands that will help you get started with gi
    #Search the working directory for foo()
    git grep "foo()"
    ```
+23. **Get Stash List**
+   
+   ```
+   #view stashes currently on the stack
+   git stash list
+   ```
    
