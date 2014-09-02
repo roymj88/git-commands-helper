@@ -68,7 +68,7 @@ Here is a list of some basic Git commands that will help you get started with gi
    #Updates corresponding branch
    ```
    
-11. **Stash - Store changes without commiting**
+11. **Stash - Save changes made in the current index and working directory for later**
    ```
    git stash
    ```
