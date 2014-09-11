@@ -145,3 +145,14 @@ Here is a list of some basic Git commands that will help you get started with gi
    git stash list
    ```
    
+24. **Revert to previous version of a particular file**
+   
+   ```
+   #Get the commit history of the file
+   git log path/to/file
+   
+   #Checkout to particular version using the commit hash obtained
+   git checkout <hash> path/to/file
+   
+   ```
+   
