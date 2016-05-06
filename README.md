@@ -163,4 +163,15 @@ Here is a list of some basic Git commands that will help you get started with gi
    git checkout -b new_branch existing_branch
    ```
    
+24. **See what's in the most recent stash without applying stash**
+   
+   ```
+   git stash show -p
+   ```
+25. **View the content of an arbitrary stash**
+   
+   ```
+   git stash show -p stash@{1}
+   ```
+   
    
